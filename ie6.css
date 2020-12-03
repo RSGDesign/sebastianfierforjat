@@ -1,0 +1,19 @@
+#header { background: url('images/ie6-header.gif')  repeat-y center top; }
+.main-box-up { background: url('images/ie6-main-up.gif')  no-repeat center top; }
+.main-box { background: url('images/ie6-main.gif')  repeat-y center top; }
+.main-box-down { background: url('images/ie6-main-down.gif')  no-repeat center top; }
+.screwwidgettitle { background: url('images/ie6-side-up.gif')  no-repeat center top ; }
+.screwwidgettext { background: url('images/ie6-side.gif')  repeat-y center top ; }
+.sidedown { background: url('images/ie6-side-down.gif')  no-repeat center top ; }
+.search-box { background: url('images/ie-side-search.gif')  no-repeat center top ; }
+#footer { background: url('images/ie6-footer.gif')  repeat-y center top; }
+.nav-box { background: url('images/ie-pagenavi.gif')  no-repeat center top; }
+.nav-box.pagenavi #s {	width: 300px; margin-top: -40px; }
+.nav-box input, textarea, select {
+	background-color: #fdfdfd;
+	border: 1px solid #574B06;
+	color: #000;
+	font: 1em "Lucida Sans Unicode", Tahoma, Arial, sans-serif;
+	margin-top: -35px;
+}
+.logo {margin-left: 40px; }
